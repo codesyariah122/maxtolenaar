@@ -1,0 +1,27 @@
+/*By Hipster Media 2017 copy from W3School */
+.jumbotron{
+margin-top:-4.5em;
+}
+body {
+    padding-top: 70px;
+  }
+.banner{
+background: -webkit-linear-gradient(90deg, #333399 10%, #3399FF 90%); /* Chrome 10+, Saf5.1+ */ 
+}
+.banner-text{
+color:#fff; 
+}
+.hipster-nav{
+background: rgba(400, 57, 75, 0.7); 
+/*background: -webkit-linear-gradient(90deg, #FF0033 10%, #FF3333 90%); /* Chrome 10+, Saf5.1+ */
+}
+/*.footer{
+background-color: rgba(400, 57, 75, 0.7 ); 
+overflow-y: auto; */
+/*position:fixed;*/
+/*font-weight:bold;
+width: 104.8%; 
+z-index: 10000; 
+color:#fff;
+margin-top:-0.7em;
+} */
